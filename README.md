@@ -10,4 +10,3 @@
 
 - <h3> :mag: TryHackMe Profile -> https://tryhackme.com/p/SoFar </h3>
 - <h3> :necktie: LinkedIn Profile -> https://www.linkedin.com/in/safar-isaev-sofar/ </h3>
-- <h3> :video_game::wrench: Itch.io Profile -> https://safarsofar.itch.io/ </h3>
