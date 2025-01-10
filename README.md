@@ -9,4 +9,4 @@
 </p>
 
 - <h3> :mag: TryHackMe Profile -> https://tryhackme.com/p/SoFar </h3>
-- <h3> :necktie: LeetCode Profile -> https://www.linkedin.com/in/safar-isaev-sofar/ </h3>
+- <h3> :necktie: LeetCode Profile -> https://leetcode.com/u/So_far_away/ </h3>
